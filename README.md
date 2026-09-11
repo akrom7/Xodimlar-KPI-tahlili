@@ -1,6 +1,7 @@
 # 📊 Sales Team Performance & KPI Calculation Model (Xodimlar KPI Tahlili)
 
-Ushbu loyiha FMCG hamda savdo sohasidagi savdo agentlari (Trade Representatives) va supervisorlar (TCM) faoliyatini **KPI (Key Performance Indicator)** ko'rsatkichlari asosida baholash, vizual tahlil qilish va ularning oylik motivatsiya bonuslarini avtomatlashtirilgan tarzda hisoblash uchun mo'ljallangan Excel/Google Sheets modelidir.
+Ushbu loyiha FMCG hamda savdo sohasidagi savdo agentlari (Trade Representatives) va supervisorlar (TCM) faoliyatini **KPI (Key Performance Indicator)** ko'rsatkichlari asosida baholash, vizual tahlil qilish va ularning oylik motivatsiya bonuslarini avtomatlashtirilgan tarzda hisoblash uchun mo'ljallangan Excel/[Google Sheets](https://docs.google.com/spreadsheets/d/1F-CXmeR7ZcDMiWu3MfvSykfIF6kQLQCZZToLFB0CW1k/edit?usp=sharing)
+2 modelidir.
 
 ---
 
@@ -54,9 +55,9 @@ Modelda Excel / Google Sheets'ning quyidagi murakkab va funksional vositalaridan
 
 ---
 
-## 🛠️ Qanday ishlatish mumkin?
+## 🛠️ Qanday ishlatish yoki ko'rish mumkin?
 
-1. Ushbu repository'dan `.xlsx` faylini yuklab oling.
+1. Ushbu repository'dan `.xlsx` faylini yuklab oling yoki googe sheets havolisiga [bosing](https://docs.google.com/spreadsheets/d/1F-CXmeR7ZcDMiWu3MfvSykfIF6kQLQCZZToLFB0CW1k/edit?usp=sharing)
 2. `KPI Xodimlar` varag'iga o'zingizning xodimlaringizning plan va fakt ma'lumotlarini kiriting.
 3. `KPI motivatsiya` bo'limida kompaniyangiz maosh hamda bonus stavkalarini sozlang.
 4. Tizim avtomatik ravishda barcha KPI foizlarini va to'lanishi kerak bo'lgan yakuniy oylik maoshlarni hisoblab beradi.
