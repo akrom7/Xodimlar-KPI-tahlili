@@ -1,7 +1,6 @@
 # 📊 Sales Team Performance & KPI Calculation Model (Xodimlar KPI Tahlili)
 
-Ushbu loyiha FMCG hamda savdo sohasidagi savdo agentlari (Trade Representatives) va supervisorlar (TCM) faoliyatini **KPI (Key Performance Indicator)** ko'rsatkichlari asosida baholash, vizual tahlil qilish va ularning oylik motivatsiya bonuslarini avtomatlashtirilgan tarzda hisoblash uchun mo'ljallangan Excel/[Google Sheets](https://docs.google.com/spreadsheets/d/1F-CXmeR7ZcDMiWu3MfvSykfIF6kQLQCZZToLFB0CW1k/edit?usp=sharing)
-2 modelidir.
+Ushbu loyiha FMCG hamda savdo sohasidagi savdo agentlari (Trade Representatives) va supervisorlar (TCM) faoliyatini **KPI (Key Performance Indicator)** ko'rsatkichlari asosida baholash, vizual tahlil qilish va ularning oylik motivatsiya bonuslarini avtomatlashtirilgan tarzda hisoblash uchun mo'ljallangan Excel/[Google Sheets](https://docs.google.com/spreadsheets/d/1F-CXmeR7ZcDMiWu3MfvSykfIF6kQLQCZZToLFB0CW1k/edit?usp=sharing) modelidir.
 
 ---
 
