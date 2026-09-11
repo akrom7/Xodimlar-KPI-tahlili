@@ -1,11 +1,16 @@
-# Xodimlar-KPI-tahlili
-FMCG va savdo sohasi xodimlari uchun KPI asosida savdo, tashrif va motivatsiya tahlilini hamda oylik maosh hisoblashni avtomatlashtiruvchi Excel / Google Sheets modeli.
-<img width="1365" height="1095" alt="image" src="https://github.com/user-attachments/assets/c310d72d-ba6f-49b6-85dc-1b97d1be78cf" />
 # 📊 Sales Team Performance & KPI Calculation Model (Xodimlar KPI Tahlili)
 
 Ushbu loyiha FMCG hamda savdo sohasidagi savdo agentlari (Trade Representatives) va supervisorlar (TCM) faoliyatini **KPI (Key Performance Indicator)** ko'rsatkichlari asosida baholash, vizual tahlil qilish va ularning oylik motivatsiya bonuslarini avtomatlashtirilgan tarzda hisoblash uchun mo'ljallangan Excel/Google Sheets modelidir.
 
 ---
+
+<img width="1365" height="1095" alt="image" src="https://github.com/user-attachments/assets/c310d72d-ba6f-49b6-85dc-1b97d1be78cf" />
+
+
+
+<img width="2283" height="997" alt="Screenshot 2026-09-11 143712" src="https://github.com/user-attachments/assets/62c62511-36a7-4460-8687-b6297e0545d0" />
+
+
 
 ## 🎯 Loyihaning asosiy maqsadi
 
